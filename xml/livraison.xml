@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="UTF-8"?><livraisons><livraison>
+ <nom>Benardeau</nom>
+ <adresse>54 rue jesaispas</adresse>
+     <codepostal>45000</codepostal>
+         <ville>Orlï¿½ans</ville><colis>
+                <ref>1</ref>
+                 <montant>50</montant>
+             </colis><colis>
+                <ref>2</ref>
+                 <montant>100</montant>
+             </colis><colis>
+                <ref>3</ref>
+                 <montant>50</montant>
+             </colis><colis>
+                <ref>4</ref>
+                 <montant>200</montant>
+             </colis></livraison> </livraisons>

@@ -1,1 +1,1 @@
-MAMAP_MSIA1
+amap
